@@ -1,0 +1,6 @@
+C:\Users\Mauricio M\Downloads\do while\do while\obj\Debug\do while.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio M\Downloads\do while\do while\bin\Debug\do while.exe.config
+C:\Users\Mauricio M\Downloads\do while\do while\bin\Debug\do while.exe
+C:\Users\Mauricio M\Downloads\do while\do while\bin\Debug\do while.pdb
+C:\Users\Mauricio M\Downloads\do while\do while\obj\Debug\do while.exe
+C:\Users\Mauricio M\Downloads\do while\do while\obj\Debug\do while.pdb
